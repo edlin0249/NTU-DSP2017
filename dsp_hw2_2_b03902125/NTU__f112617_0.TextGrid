@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.1455 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 2.1455 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04216916975441031 
+            text = "r_a" 
+        intervals [2]:
+            xmin = 0.04216916975441031 
+            xmax = 0.28041751378076724 
+            text = "ang" 
+        intervals [3]:
+            xmin = 0.28041751378076724 
+            xmax = 0.4214856122174259 
+            text = "ch_u" 
+        intervals [4]:
+            xmin = 0.4214856122174259 
+            xmax = 0.6111438334489336 
+            text = "u" 
+        intervals [5]:
+            xmin = 0.6111438334489336 
+            xmax = 0.7208634655663348 
+            text = "tz_u" 
+        intervals [6]:
+            xmin = 0.7208634655663348 
+            xmax = 0.9105216867978426 
+            text = "uei" 
+        intervals [7]:
+            xmin = 0.9105216867978426 
+            xmax = 1.2020624235669373 
+            text = "sic_e" 
+        intervals [8]:
+            xmin = 1.2020624235669373 
+            xmax = 1.2600570862575635 
+            text = "e" 
+        intervals [9]:
+            xmin = 1.2600570862575635 
+            xmax = 1.4105297245899995 
+            text = "sic_iu" 
+        intervals [10]:
+            xmin = 1.4105297245899995 
+            xmax = 1.6205644489290247 
+            text = "iuan" 
+        intervals [11]:
+            xmin = 1.6205644489290247 
+            xmax = 1.8008181302647552 
+            text = "s_o" 
+        intervals [12]:
+            xmin = 1.8008181302647552 
+            xmax = 2.1299770266169586 
+            text = "ou" 
+        intervals [13]:
+            xmin = 2.1299770266169586 
+            xmax = 2.1455 
+            text = "" 

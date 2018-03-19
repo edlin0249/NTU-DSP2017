@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.108 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 2.108 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.030651927938452003 
+            text = "tz_empt" 
+        intervals [2]:
+            xmin = 0.030651927938452003 
+            xmax = 0.2200752731056009 
+            text = "empt2" 
+        intervals [3]:
+            xmin = 0.2200752731056009 
+            xmax = 0.2909165241437216 
+            text = "d_u" 
+        intervals [4]:
+            xmin = 0.2909165241437216 
+            xmax = 0.5311607667947397 
+            text = "ueng" 
+        intervals [5]:
+            xmin = 0.5311607667947397 
+            xmax = 0.5896818002610134 
+            text = "g_u" 
+        intervals [6]:
+            xmin = 0.5896818002610134 
+            xmax = 0.8499463964662829 
+            text = "uang" 
+        intervals [7]:
+            xmin = 0.8499463964662829 
+            xmax = 0.9900888713460435 
+            text = "chi_iu" 
+        intervals [8]:
+            xmin = 0.9900888713460435 
+            xmax = 1.2210929508181763 
+            text = "iuan" 
+        intervals [9]:
+            xmin = 1.2210929508181763 
+            xmax = 1.3412150721436853 
+            text = "k_u" 
+        intervals [10]:
+            xmin = 1.3412150721436853 
+            xmax = 1.5906994779735886 
+            text = "ueng" 
+        intervals [11]:
+            xmin = 1.5906994779735886 
+            xmax = 1.6707808921905947 
+            text = "j_empt" 
+        intervals [12]:
+            xmin = 1.6707808921905947 
+            xmax = 2.0912083168298765 
+            text = "empt1" 
+        intervals [13]:
+            xmin = 2.0912083168298765 
+            xmax = 2.108 
+            text = "" 

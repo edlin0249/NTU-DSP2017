@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.4955 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 3.4955 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.030397767356009246 
+            text = "g_u" 
+        intervals [2]:
+            xmin = 0.030397767356009246 
+            xmax = 0.12999142843127412 
+            text = "uo" 
+        intervals [3]:
+            xmin = 0.12999142843127412 
+            xmax = 0.2500145584450549 
+            text = "m_e" 
+        intervals [4]:
+            xmin = 0.2500145584450549 
+            xmax = 0.5002755529418744 
+            text = "eng" 
+        intervals [5]:
+            xmin = 0.5002755529418744 
+            xmax = 0.5309197563496482 
+            text = "sic_iu" 
+        intervals [6]:
+            xmin = 0.5309197563496482 
+            xmax = 0.7505365474386938 
+            text = "iung" 
+        intervals [7]:
+            xmin = 0.7505365474386938 
+            xmax = 0.9114186153295063 
+            text = "sh_empt" 
+        intervals [8]:
+            xmin = 0.9114186153295063 
+            xmax = 1.0901764685415203 
+            text = "empt1" 
+        intervals [9]:
+            xmin = 1.0901764685415203 
+            xmax = 1.2612732709015906 
+            text = "sic_i" 
+        intervals [10]:
+            xmin = 1.2612732709015906 
+            xmax = 1.4119406043231453 
+            text = "i" 
+        intervals [11]:
+            xmin = 1.4119406043231453 
+            xmax = 1.4911047964598942 
+            text = "g_e" 
+        intervals [12]:
+            xmin = 1.4911047964598942 
+            xmax = 1.720936322018198 
+            text = "e" 
+        intervals [13]:
+            xmin = 1.720936322018198 
+            xmax = 1.8409594520319785 
+            text = "ch_e" 
+        intervals [14]:
+            xmin = 1.8409594520319785 
+            xmax = 2.050361508651766 
+            text = "eng" 
+        intervals [15]:
+            xmin = 2.050361508651766 
+            xmax = 2.124418333553886 
+            text = "j_empt" 
+        intervals [16]:
+            xmin = 2.124418333553886 
+            xmax = 2.3619109099641333 
+            text = "empt1" 
+        intervals [17]:
+            xmin = 2.3619109099641333 
+            xmax = 2.4410751021008825 
+            text = "d_e" 
+        intervals [18]:
+            xmin = 2.4410751021008825 
+            xmax = 2.6811213621284438 
+            text = "e" 
+        intervals [19]:
+            xmin = 2.6811213621284438 
+            xmax = 2.760285554265193 
+            text = "j_empt" 
+        intervals [20]:
+            xmin = 2.760285554265193 
+            xmax = 2.9313823566252633 
+            text = "empt1" 
+        intervals [21]:
+            xmin = 2.9313823566252633 
+            xmax = 3.0590665374909873 
+            text = "h_u" 
+        intervals [22]:
+            xmin = 3.0590665374909873 
+            xmax = 3.4804243343478776 
+            text = "uei" 
+        intervals [23]:
+            xmin = 3.4804243343478776 
+            xmax = 3.4955 
+            text = "" 
